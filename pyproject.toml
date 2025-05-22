@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "bootcamp-template"
+version = "0.1.0"
+description = "Este é um modelo simples de template para usar em meus projetos de bootcamp"
+authors = ["Julio Okuda <julio.okuda@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
