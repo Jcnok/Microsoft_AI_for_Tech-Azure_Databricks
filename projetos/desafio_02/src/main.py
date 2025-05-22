@@ -1,9 +1,9 @@
 """
-Desafio 01 - Fundamentos
+Desafio 02 - Monitoramento
 """
 
 def main():
-    print("Desafio 01 - Fundamentos")
+    print("Desafio 02 - Monitoramento")
     # Seu código aqui
 
 if __name__ == "__main__":

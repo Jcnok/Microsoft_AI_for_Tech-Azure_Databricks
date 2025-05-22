@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "bootcamp-template"
+name = "Bootcamp Microsoft Azure Databricks - 2025"
 version = "0.1.0"
-description = "Este é um modelo simples de template para usar em meus projetos de bootcamp"
+description = "Este repositório reúne todos os desafios e projetos desenvolvidos durante o **Bootcamp Microsoft Azure Databricks**, promovido pela [DIO](https://www.dio.me/) em parceria com a **Microsoft**."
 authors = ["Julio Okuda <julio.okuda@gmail.com>"]
 readme = "README.md"
 

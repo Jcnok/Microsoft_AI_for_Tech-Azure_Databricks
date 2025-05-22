@@ -1,4 +1,4 @@
-# Desafio 01 - Fundamentos
+# Desafio 02 - Monitoramento
 
 ## 📋 Descrição
 Descrição detalhada do desafio e objetivos.
