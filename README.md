@@ -19,7 +19,7 @@ O bootcamp tem como objetivo preparar profissionais para atuarem com engenharia 
 | Desafio | Descrição | Tecnologias | Status |
 |---------|-----------|-------------|--------|
 | [Desafio 01](./projetos/desafio_01/) | Fundamentos do Azure Databricks | Python, Azure Databricks | ✅ |
-| [Desafio 02](./projetos/desafio_02/) | Monitoramento de Custos no Data Factory | Azure Data Factory, Power BI | 🚧 |
+| [Desafio 02](./projetos/desafio_02/) | Monitoramento de Custos no Data Factory | Azure Data Factory|✅ |
 | [Desafio 03](./projetos/desafio_03/) | Redundância de Arquivos na Azure | Azure Blob Storage, Python | ⏳ |
 | [Desafio 04](./projetos/desafio_04/) | Controle de Versão com Azure Notebooks | Git, Azure Databricks | ⏳ |
 | [Desafio 05](./projetos/desafio_05/) | Versionamento com GitHub e Azure DevOps | GitHub, Azure DevOps | ⏳ |
